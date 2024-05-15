@@ -1,0 +1,45 @@
+Here are some fundamental notes on Power BI:
+
+Introduction to Power BI:
+
+Power BI is a suite of business analytics tools developed by Microsoft.
+It allows users to visualize data, share insights, and make data-driven decisions.
+Components of Power BI:
+
+Power BI Desktop: Used for creating reports and data visualizations.
+Power BI Service: Allows sharing and collaboration on reports in the cloud.
+Power BI Mobile: Provides access to reports and dashboards on mobile devices.
+Power BI Report Server: For on-premises reporting and sharing.
+Data Sources:
+
+Power BI can connect to various data sources such as Excel files, databases (SQL Server, Oracle, MySQL), cloud services (Azure, Google Analytics), and more.
+It supports importing data or connecting directly for live data analysis.
+Data Preparation:
+
+Power BI includes Power Query for data transformation and cleansing.
+Users can clean, filter, and merge data from multiple sources using Power Query.
+Data Modeling:
+
+Power BI uses a data modeling approach with relationships between tables.
+Users can create calculated columns, measures, and hierarchies for analysis.
+Visualization:
+
+Power BI offers a wide range of visualization options such as charts, graphs, maps, tables, and custom visuals.
+Users can customize visuals with formatting, colors, and interactive features.
+Reports and Dashboards:
+
+Reports in Power BI are interactive and can contain multiple visuals, filters, and slicers for data exploration.
+Dashboards provide a high-level overview of key metrics and allow drilling down into details.
+Sharing and Collaboration:
+
+Power BI Service enables sharing reports and dashboards securely with colleagues and stakeholders.
+Users can collaborate on shared content, create workspaces, and schedule data refreshes.
+Data Security:
+
+Power BI provides security features like role-based access control (RBAC), row-level security (RLS), and encryption.
+It ensures data privacy and compliance with regulatory requirements.
+Integration:
+
+Power BI integrates with other Microsoft products like Excel, SharePoint, Azure, and Dynamics 365.
+It supports integration with third-party tools and platforms through APIs and connectors.
+These fundamentals cover the core features and capabilities of Power BI, empowering users to analyze data, create impactful visualizations, and derive actionable insights for better decision-making.
